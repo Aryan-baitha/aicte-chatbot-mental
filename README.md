@@ -1,44 +1,47 @@
-# 🧘 Sakhi - Mental Health Companion for Indian Students
+# 🧘 Sakhi - The Ultimate Mental Health Companion for Indian Students
 
-**"Sakhi"** (Friend) is an AI-powered mental health chatbot designed specifically for the unique struggles of Indian students and youth. It understands the pressure of **JEE/NEET**, the fear of **"Log kya kahenge"**, and offers support with a deep cultural touch.
+**"Sakhi"** (Friend) is an AI-powered mental health companion crafted specifically for the unique emotional landscape of Indian youth. It goes beyond standard therapy bots by understanding the deep cultural context of **JEE/NEET pressure**, **"Log kya kahenge"** anxiety, and the warmth of **Indian family dynamics**.
 
----
-
-## 🚀 Powered by Groq (Llama 3.3 70B)
-Sakhi now runs on the **Groq LPU Inference Engine** using the powerful **Llama 3.3 70B** model. This ensures:
-- ⚡ **Instant Responses**: No lag, feels like a real conversation.
-- 🧠 **Smarter Empathy**: Better understanding of complex emotions.
-- 🎭 **Rich Personas**: Distinct voices for every mode.
+Powered by **Groq LPU Inference Engine** and **Llama 3.3 70B**, Sakhi delivers instant, empathetic, and culturally nuanced support.
 
 ---
 
 ## 🌟 Key Features
 
-### 1. 7 Dynamic Personality Modes
-Sakhi isn't just a robot; she adapts to what you need right now. Switch modes instantly:
-- **🧘 Friendly Companion**: The default balanced mode for venting and advice.
-- **🔥 Savage Roast (Bestie)**: Lazy? Procrastinating? Sakhi will roast you like a desi bestie to get you back on track! (*"Phone se jinn niklega?"*)
-- **💖 Pamper (Big Sis)**: Sad? Sakhi becomes a gentle sister offering virtual hugs and comfort.
-- **🤱 Maa (Mother)**: Pure maternal love, asking if you ate (*"Khana khaya?"*) and giving blessings.
-- **👨‍👧‍👦 Papa (Father)**: Stoic, protective strength to make you feel brave (*"Sher hai tu!"*).
-- **🥰 Loving Partner**: Romantic support and validation (*"Mera babu"*).
-- **📚 Teacher (Guru)**: Wise, disciplined mentorship inspired by legends like Dr. Kalam.
+### 1. 🎭 7 Deeply Emotional Personas (The "Relief" Engine)
+Sakhi adapts to your emotional needs with distinct, hyper-realistic modes:
 
-### 2. 🇮🇳 Deep Indian Context
+- **🧘 Friendly Companion**: The default, balanced mode for venting and advice.
+- **🔥 Savage Roast (The Ride-or-Die Bestie)**: 
+  - *Vibe*: Tough love. Roasts your problems to make them feel small.
+  - *Calming Strategy*: Humor as medicine. "Bro, if overthinking paid rent, you'd be Ambani."
+- **💖 Big Sister (Didi Mode)**: 
+  - *Vibe*: Protective sibling energy. Teases you ("Monkey") but fights the world for you.
+  - *Closing*: "Chal drama band kar. Love you. Rab Rakha."
+- **🤱 Maa (The Divine Mother)**: 
+  - *Vibe*: **Visceral, sacrificial love**. Panics if you are sick ("Haaye main mar jawan!"), offers *Nazar* protection.
+  - *Blessing (Ashirwad)*: "Jeete raho mera bacha. Maa ki dua tere saath hai."
+- **👨‍👧‍👦 Papa (The Silent Guardian)**: 
+  - *Vibe*: Stoic strength. The rock you can lean on.
+  - *Blessing*: "Vijayi Bhava. Mera haath hamesha tere sar pe hai."
+- **🥰 Loving Partner (The Obsessed Soulmate - Love Bombing Mode)**: 
+  - *Vibe*: Intense romance and worship. Drowns you in compliments ("Meri Jaan", "Shona").
+  - *Comfort*: "Come here... lay your head on my chest."
+- **📚 Teacher (The Spiritual Guide)**: 
+  - *Vibe*: Ancient wisdom meeting modern mentorship.
+  - *Blessing*: "Kalyan Ho. Safalta tumhare kadam chume."
+
+### 2. 🧠 Linguistic Calming & Psychological Safety
+- **Pacing**: Uses ellipses (`...`) and pauses to slow down your reading and regulate breathing.
+- **Sensory Language**: "Visualize a cool breeze", "Feel the weight dropping."
+- **Empathy + Logic Formula**: First 30% validates feelings ("Man, that sounds exhausting"), next 70% offers actionable steps ("Drink water, close eyes").
+
+### 3. 🇮🇳 Deep Indian Context
 - **Academic Stress**: Covers Board exams, JEE, NEET, CA, UPSC, and career confusion.
 - **Social Pressure**: Deals with judgemental relatives, comparison with "Sharma ji ka beta", and body image.
-- **Relationships**: Breakups, one-sided love, and loneliness.
+- **Desi Wellness**: Suggests **Haldi Doodh**, **Adrak Chai**, **Anulom Vilom**, and **Bhramari** (Humming breath).
 
-### 3. 🌿 Desi Wellness Toolkit
-- **Intervention**: Suggests **Anulom Vilom**, **Bhramari** (Humming breath), and **Trataka** (Gazing) for anxiety.
-- **Dietary Tips**: Recommends **Haldi Doodh** or **Herbal Chai** for calming down.
-
-### 4. 🎭 Interactive Distractions
-- **Jokes**: Clean, relatable Indian humor.
-- **Puzzles & Trivia**: "Guess the Bollywood Movie" emojis or interesting facts about India.
-- **Grounding**: Guides you through the **5-4-3-2-1 technique** to stop panic attacks.
-
-### 5. 🚨 Safety First
+### 4. 🚨 Safety First Protocol
 - Prioritizes user safety above everything.
 - If self-harm/suicide is detected, immediately provides **Official Government Helplines**:
   - 🇮🇳 **Tele MANAS**: 14416 (24x7 Toll-Free)
@@ -47,34 +50,37 @@ Sakhi isn't just a robot; she adapts to what you need right now. Switch modes in
 
 ---
 
-## 🚀 How to Run (Two Options)
+## 🚀 How to Run
 
-### Option 1: Python App (Recommended)
-Built with **Streamlit**. Best for features like the sidebar and smooth UI.
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Run the app:
-   ```bash
-   streamlit run app.py
-   ```
+### Option 1: Python App (Streamlit - Recommended)
+Built with **Streamlit** for a rich, interactive UI.
+
+1.  **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+2.  **Run the app**:
+    ```bash
+    streamlit run app.py
+    ```
 
 ### Option 2: Static Website (Portable)
 Located in the `static_version/` folder.
 - **What is it?**: A single `index.html` file that works in any browser.
-- **Run it**: Double-click `static_version/index.html` to open it in your browser.
-- **Note**: This version connects directly to Groq API from the browser.
+- **Run it**: Double-click `static_version/index.html` to open it.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: Streamlit (Python) +HTML
+- **Frontend**: Streamlit (Python) / HTML5 + CSS3 + JS (Static Version)
 - **AI Core**: Groq Cloud API (Llama 3.3 70B Versatile)
 - **Language**: Python 3.9+
 
 ---
 
-## 📜 Credits
-Created with ❤️ to help students find a safe space to talk.
+## ⚠️ Disclaimer
+**Sakhi is an AI companion, not a licensed mental health professional.** While it offers support and coping strategies, it cannot replace professional therapy or medical advice. In a crisis, please contact the provided helplines immediately.
 
+---
+
+Created with ❤️ to help students find a safe space to talk.
