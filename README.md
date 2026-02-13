@@ -69,7 +69,7 @@ Located in the `static_version/` folder.
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: Streamlit (Python) / HTML5 + CSS3 + JS (Static Version)
+- **Frontend**: Streamlit (Python) +HTML
 - **AI Core**: Groq Cloud API (Llama 3.3 70B Versatile)
 - **Language**: Python 3.9+
 
@@ -77,3 +77,4 @@ Located in the `static_version/` folder.
 
 ## 📜 Credits
 Created with ❤️ to help students find a safe space to talk.
+
