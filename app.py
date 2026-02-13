@@ -3,7 +3,9 @@ from groq import Groq
 import os
 
 # --- Configuration ---
-API_KEY = "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"
+API_KEY = "your api"
+
+#"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"
 
 # Configure Groq
 try:
