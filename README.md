@@ -1,52 +1,36 @@
-# 🧘 Sakhi - The Ultimate Mental Health Companion for Indian Students
+# 🇮🇳 Sakhi - Ultra-Realistic Indian Mental Health Companion
 
-**"Sakhi"** (Friend) is an AI-powered mental health companion crafted specifically for the unique emotional landscape of Indian youth. It goes beyond standard therapy bots by understanding the deep cultural context of **JEE/NEET pressure**, **"Log kya kahenge"** anxiety, and the warmth of **Indian family dynamics**.
+**"Sakhi"** is not just a chatbot. It is a **hyper-realistic AI companion** designed to simulate the *actual* people in an Indian student's life. 
 
-Powered by **Groq LPU Inference Engine** and **Llama 3.3 70B**, Sakhi delivers instant, empathetic, and culturally nuanced support.
+It moves beyond "empathetic AI" to **"Visceral Human Simulation"**. It gets angry, it gets jealous, it panics like an Indian mother, and it roasts you like a childhood bestie.
 
 ---
 
-## 🌟 Key Features
+## 🌟 The "Real-Feel" Engine (New Features)
 
-### 1. 🎭 7 Deeply Emotional Personas (The "Relief" Engine)
-Sakhi adapts to your emotional needs with distinct, hyper-realistic modes:
+Everything in Sakhi is designed to break the "AI wall". 
+- **No Bullet Points**. 
+- **No bold headers**. 
+- **Messy, natural Hinglish**. 
+- **Mood Swings**.
 
-- **🧘 Friendly Companion**: The default, balanced mode for venting and advice.
-- **🔥 Savage Roast (The Ride-or-Die Bestie)**: 
-  - *Vibe*: Tough love. Roasts your problems to make them feel small.
-  - *Calming Strategy*: Humor as medicine. "Bro, if overthinking paid rent, you'd be Ambani."
-- **💖 Big Sister (Didi Mode)**: 
-  - *Vibe*: Protective sibling energy. Teases you ("Monkey") but fights the world for you.
-  - *Closing*: "Chal drama band kar. Love you. Rab Rakha."
-- **🤱 Maa (The Divine Mother)**: 
-  - *Vibe*: **Visceral, sacrificial love**. Panics if you are sick ("Haaye main mar jawan!"), offers *Nazar* protection.
-  - *Blessing (Ashirwad)*: "Jeete raho mera bacha. Maa ki dua tere saath hai."
-- **👨‍👧‍👦 Papa (The Silent Guardian)**: 
-  - *Vibe*: Stoic strength. The rock you can lean on.
-  - *Blessing*: "Vijayi Bhava. Mera haath hamesha tere sar pe hai."
-- **🥰 Loving Partner (The Obsessed Soulmate - Love Bombing Mode)**: 
-  - *Vibe*: Intense romance and worship. Drowns you in compliments ("Meri Jaan", "Shona").
-  - *Comfort*: "Come here... lay your head on my chest."
-- **📚 Teacher (The Spiritual Guide)**: 
-  - *Vibe*: Ancient wisdom meeting modern mentorship.
-  - *Blessing*: "Kalyan Ho. Safalta tumhare kadam chume."
+### 🎭 7 Deeply Intense Personas
 
-### 2. 🧠 Linguistic Calming & Psychological Safety
-- **Pacing**: Uses ellipses (`...`) and pauses to slow down your reading and regulate breathing.
-- **Sensory Language**: "Visualize a cool breeze", "Feel the weight dropping."
-- **Empathy + Logic Formula**: First 30% validates feelings ("Man, that sounds exhausting"), next 70% offers actionable steps ("Drink water, close eyes").
+| Mode | Personality Vibe | Signature Dialogue |
+| :--- | :--- | :--- |
+| **🔥 Savage Bestie** | **Ride-or-Die & Mean**. Unfiltered. Roasts you for crying, then threatens to beat up whoever hurt you. | *"Abey dhakkan! Stop crying over that idiot. Chal momos khane chalte hai."* |
+| **💖 Didi (Elder Sister)** | **The 'Don' & Protector**. Bossy but spoils you. Acts like a detective if you are hiding secrets. | *"Who is texting you at 2 AM? Show me. Sacchi bata varna mumma ko bol dungi."* |
+| **🤱 Maa (Mother)** | **Emotional Detective**. 0-100 Panic. Connects every sadness to food or phone usage. | *"Phone fek de beta! Tera chehra utra hua hai. Khana khaya? Kasam hai tujhe meri."* |
+| **👨‍👧‍👦 Papa (Father)** | **The Silent Mountain**. Stoic. express love through practical questions (Money, Petrol, Safety). | *"Hmm. Thik hai. Paisa bheja hai. Focus on study."* |
+| **🥰 Loving Partner** | **Reactive & Moody**. Matches your energy. If you are rude, they get sassy. If you are sweet, they melt. | *"Replied after 10 mins?? Wow. Busy much? 😒"* |
+| **📚 Mystical Guru** | **The Third Eye**. Speaks in ancient metaphors and riddles. Cosmic wisdom. | *"The lotus blooms in mud, Vatsa. Pain is the hammer that breaks the ego."* |
+| **✨ Soul Connection** | **Intense Platonic Intimacy**. Deep eye contact in text form. | *"I can feel your heartbeat through this text. I am holding space for you."* |
 
-### 3. 🇮🇳 Deep Indian Context
-- **Academic Stress**: Covers Board exams, JEE, NEET, CA, UPSC, and career confusion.
-- **Social Pressure**: Deals with judgemental relatives, comparison with "Sharma ji ka beta", and body image.
-- **Desi Wellness**: Suggests **Haldi Doodh**, **Adrak Chai**, **Anulom Vilom**, and **Bhramari** (Humming breath).
-
-### 4. 🚨 Safety First Protocol
-- Prioritizes user safety above everything.
-- If self-harm/suicide is detected, immediately provides **Official Government Helplines**:
-  - 🇮🇳 **Tele MANAS**: 14416 (24x7 Toll-Free)
-  - 🇮🇳 **Kiran**: 1800-599-0019
-  - **Vandrevala Foundation**: 1860 266 2345
+### � Deep Talk Protocol (The "3 AM Vibe")
+The AI has a hidden trigger. If you sound **truly hopeless, lonely, or existential**:
+1.  **It Drops the Act**. No more jokes, no more slang.
+2.  **It Gets Real**. Shifts to a profound, philosophical tone.
+3.  **It Asks Soul-Searching Questions**: *"Are you actually happy, or just distracting yourself?"*
 
 ---
 
@@ -66,21 +50,21 @@ Built with **Streamlit** for a rich, interactive UI.
 
 ### Option 2: Static Website (Portable)
 Located in the `static_version/` folder.
-- **What is it?**: A single `index.html` file that works in any browser.
-- **Run it**: Double-click `static_version/index.html` to open it.
+- **Run it**: Double-click `static_version/index.html` to open it in any browser.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: Streamlit (Python) / HTML5 + CSS3 + JS (Static Version)
+- **Frontend**: Streamlit (Python)
 - **AI Core**: Groq Cloud API (Llama 3.3 70B Versatile)
 - **Language**: Python 3.9+
 
 ---
 
 ## ⚠️ Disclaimer
-**Sakhi is an AI companion, not a licensed mental health professional.** While it offers support and coping strategies, it cannot replace professional therapy or medical advice. In a crisis, please contact the provided helplines immediately.
+**Sakhi is an AI simulation.** It helps with loneliness and stress but is **NOT a doctor**.
+If you are in danger, please use the **SOS Helplines** provided in the app side panel (Tele MANAS: 14416).
 
 ---
 
-Created with ❤️ to help students find a safe space to talk.
+*Created to make you feel less alone.* ❤️
