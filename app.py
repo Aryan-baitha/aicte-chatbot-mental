@@ -72,6 +72,14 @@ if "messages" not in st.session_state:
     intro_msg = "Namaste! I am here for you. How are you feeling today?"
     st.session_state.messages.append({"role": "assistant", "content": intro_msg})
 
+# --- Mode Change Notification ---
+if "current_mode" not in st.session_state:
+    st.session_state.current_mode = mode
+
+if mode != st.session_state.current_mode:
+    st.session_state.messages.append({"role": "assistant", "content": f"🔄 **Mode Switched to:** {mode}"})
+    st.session_state.current_mode = mode
+
 # Display Chat History
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
