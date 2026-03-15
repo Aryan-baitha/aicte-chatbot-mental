@@ -1,4 +1,4 @@
-# 🇮🇳 Sakhi - Ultra-Realistic Indian Mental Health Companion
+# 🇮🇳 Sakhi - Ultra-Realistic Indian Mental Health Companion 
 
 **"Sakhi"** is not just a chatbot. It is a **hyper-realistic AI companion** designed to simulate the *actual* people in an Indian student's life. 
 
@@ -49,8 +49,8 @@ Built with **Streamlit** for a rich, interactive UI.
     ```
 
 ### Option 2: Static Website (Portable)
-Located in the `static_version/` folder.
-- **Run it**: Double-click `static_version/index.html` to open it in any browser.
+Located in the `https://aicte-chatbot-mental.streamlit.app/` website.
+- **Run it**: Double-click `https://aicte-chatbot-mental.streamlit.app/` to open it in any browser.
 
 ---
 
@@ -68,3 +68,4 @@ If you are in danger, please use the **SOS Helplines** provided in the app side 
 ---
 
 *Created to make you feel less alone.* ❤️
+
